@@ -2,6 +2,8 @@
 # Welcome
 
 Welcome to our space exploration and discovery tool! Feel free to explore the scripts and app to see what we created and visualized using data from the Parker Solar Probe. While the scripts give you access to the logic behind the visualizations, the audio representations we created can only be heard in the app.
+
+Due to memory concerns, we included only a subset of the data in the app.
 ## How does this work?
 
 Feel free to use the .exe file to install our app on your local machine. This application will only run on a Windows OS. 
